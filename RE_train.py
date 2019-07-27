@@ -58,8 +58,6 @@ import matplotlib.pyplot as plt
 # Neural network parameters
 #####################################################################
 
-sys.path.append('C:\\Users\\takashi\\OneDrive\\documents\\Keras+CoreML\\code')
-
 # Metrics
 from utils.Validation_func import mean_iou, dice_coef
 

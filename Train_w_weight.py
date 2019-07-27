@@ -58,8 +58,6 @@ import matplotlib.pyplot as plt
 # Neural network model and parameters
 #####################################################################
 
-sys.path.append('C:\\Users\\takashi\\OneDrive\\documents\\Keras+CoreML\\code')
-
 # Neural networks
 from neural_networks import CV_net as NN
 #from neural_networks import CV_net_wBNbias as NN

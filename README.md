@@ -1,7 +1,6 @@
 # CV-net
 
-Jan 3, 2020
-MOVED to AIS Training Codeset <https://github.com/tkshirakawa/AIS_Training_Codeset>
+Jan 3, 2020. MOVED to AIS Training Codeset <https://github.com/tkshirakawa/AIS_Training_Codeset>
 
 
 CV-net is a neural network which enables high-precision segmentation of cardiovascular structures in medical CT images.
